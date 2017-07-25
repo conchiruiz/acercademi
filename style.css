@@ -1,0 +1,54 @@
+
+@font-face{
+    font-family: "JosefinSlab-LightItalic";
+ src: url("/../fonts/JosefinSlab-LightItalic.ttf");
+   
+     }
+body{
+    
+    font-family: "JosefinSlab-LightItalic";
+    background-color:antiquewhite;
+    width: 90%;
+    margin-left: 50px;
+    margin-right: 50px;   
+    }
+
+p span{
+    font-size: 40px;
+}
+ul{
+    list-style-type:none;
+    font-weight: bold;
+}
+.fecha{
+    text-align:right;
+}
+.departamento, .saludo{
+    text-indent: 20px;
+}
+.cuerpo{
+    text-align: justify;
+  }
+.parrafo{
+     text-indent: 20px;
+}
+.despedida{
+     text-indent: 20px;
+
+}
+.firma{
+    text-align:right;
+    
+}
+
+footer{
+    text-align: justify;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.pie{
+    display:inline-block;
+    float:right;
+    font-size: 28px;
+}
