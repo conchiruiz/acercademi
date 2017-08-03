@@ -1,11 +1,7 @@
-@font-face{
-    font-family: "letraconchi";
- src: url("../fonts/JosefinSlab-LightItalic.ttf");
-   
-     }
+
 body{
     
-    font-family: "letraconchi", cursive;
+   font-family: 'Dancing Script', cursive;
     background-color:antiquewhite;
     width: 90%;
     margin-left: 50px;
