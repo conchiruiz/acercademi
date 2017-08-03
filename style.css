@@ -1,11 +1,11 @@
 @font-face{
-    font-family: "JosefinSlab-LightItalic";
- src: url("/../fonts/JosefinSlab-LightItalic.ttf");
+    font-family: "letraconchi";
+ src: url("../fonts/JosefinSlab-LightItalic.ttf");
    
      }
 body{
     
-    font-family: "JosefinSlab-LightItalic";
+    font-family: "letraconchi", cursive;
     background-color:antiquewhite;
     width: 90%;
     margin-left: 50px;
